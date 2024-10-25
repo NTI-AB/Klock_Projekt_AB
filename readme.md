@@ -1,7 +1,7 @@
 # Clock and Temperature Project
 
 Author: Axel Börjeson  
-Date: 2024-10-11
+Date: 2024-10-25
 
 This project combines real-time clock (RTC) functionality, temperature measurement, and motor and LED control in an Arduino environment. Using a DS3231 RTC module, an OLED display, a servo motor, an analog temperature sensor, and RGB LEDs, this project dynamically displays the current time and adjusts the servo motor position and LED color based on the current temperature.
 
